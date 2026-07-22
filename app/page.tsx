@@ -246,6 +246,26 @@ const projects: Project[] = [
       "AI travel app where an \"AI travel twin\" turns saved social reels into bookable trips — hotels, experiences, visas — in one place, and lets users earn from shared itineraries.",
     techStack: ["React", "Next.js", "Directus"],
     liveLink: "https://alike.io/",
+  },
+  {
+    title: "Saviano Food Import Ltd",
+    description:
+      "E-commerce website for a Leeds-based premium Italian food importer and wholesale supplier. Features a full product catalog (cheeses, dairy, dried pasta, wines, beers, ice-cream, equipment), category browsing, wishlist functionality, gated wholesale pricing (login-to-view prices), age verification for alcohol products, and pages for delivery, events, partners, and contact. Built as a B2B/wholesale storefront with a clean, product-forward design.",
+    techStack: ["WordPress", "WooCommerce", "Woodmart", "Elementor", "PHP", "MySQL"],
+    liveLink: "https://savianofoodimportltd.com/",
+  },
+  {
+    title: "18stays — Golf Stay & Play Package Finder",
+    description:
+      "A golf travel booking platform for discovering and comparing \"stay & play\" packages across the USA — resort accommodation bundled with rounds of golf at one all-inclusive price. Users search by destination, dates, and guests to browse golf resorts with onsite courses, view ratings/reviews, compare per-night and stay-&-play pricing, and save listings. Includes dedicated flows for golf hotels, course + hotel combos, and golf event stays, plus aggregator integrations and mobile app support.",
+    techStack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Booking APIs", "SEO"],
+    liveLink: "https://18stays.vercel.app/",
+  },
+  {
+    title: "Roadrunner Freight — LTL Shipping Platform",
+    description:
+      "A customer-facing web portal for Roadrunner Transportation, a nationwide LTL (Less-Than-Truckload) freight carrier with 32 service centers. The platform lets shippers get instant freight quotes, book shipments, and manage the full logistics workflow — including real-time shipment tracking, transit time and density calculators, bill of lading management, a multi-shipment quote cart, service center locator, label maker, pickup scheduling, online payment, and a document/reports download center. Fully responsive with authenticated dashboards for account holders.",
+    techStack: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
   }
 ]
 
